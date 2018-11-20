@@ -1,4 +1,4 @@
-FROM centos:7.2.1511
+FROM jdk:8
 
 #作者
 MAINTAINER ruzz <jiranfengqi@gmail.com>
